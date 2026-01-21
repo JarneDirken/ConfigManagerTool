@@ -1,0 +1,20 @@
+{
+  "A": {
+    "replace": {
+      "IpMatixB": "IpMatixA",
+      "loggingB": "loggingA",
+      "LoggingB": "LoggingA",
+      "_B": "_A"
+    },
+    "port_offset": -100
+  },
+  "B": {
+    "replace": {
+      "IpMatixA": "IpMatixB",
+      "loggingA": "loggingB",
+      "LoggingA": "LoggingB",
+      "_A": "_B"
+    },
+    "port_offset": 100
+  }
+}

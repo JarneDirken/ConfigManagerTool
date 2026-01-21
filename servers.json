@@ -1,0 +1,20 @@
+{
+  "servers": [
+    {
+      "name": "Server4A",
+      "path": "F:\\Servers\\Server4A\\C\\IpMatix\\ConfigurationManager\\IpMatixConfig\\Server"
+    },
+    {
+      "name": "Server4B",
+      "path": "F:\\Servers\\Server4B\\C\\IpMatix\\ConfigurationManager\\IpMatixConfig\\Server"
+    },
+    {
+      "name": "Server5A",
+      "path": "F:\\Servers\\Server5A\\C\\IpMatix\\ConfigurationManager\\IpMatixConfig\\Server"
+    },
+    {
+      "name": "Server5B",
+      "path": "F:\\Servers\\Server5B\\C\\IpMatix\\ConfigurationManager\\IpMatixConfig\\Server"
+    }
+  ]
+}
